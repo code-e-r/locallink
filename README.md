@@ -41,7 +41,6 @@ Explore the Map: Pan and zoom to explore local areas.
 Get AI suggestion: based on your reason to visit, AI will suggest a checklist of things you might need
 Get optimized route: Based on the
 Request Travel Buddy: Navigate to the dedicated "Travel Buddy" section (or button) to request assistance from a verified company personnel.
-Screenshots / GIFs
 
 # Future Enhancements
 Integration with more official transport data sources as they become available.

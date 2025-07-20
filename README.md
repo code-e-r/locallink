@@ -1,4 +1,4 @@
-# locallink
+# LOCAL LINK
 Local Link: Your Smart Companion for Unfamiliar Areas
 # Project Overview
 The Local Link is an innovative and adaptable system designed to empower travelers to confidently navigate and explore unfamiliar local areas. It addresses the common challenges of fragmented and unreliable local transport information and points of interest. Our solution provides a comprehensive platform to aggregate and organize travel options, timings, and essential local insights based on user preferences and constraints.
